@@ -1,6 +1,6 @@
 # ReactReduxClientAuth
 
-This project need to be executed together with:
+This project needs to be executed together with:
 https://github.com/danielmapar/NodeExpressJWTAuth
 
 ###Getting Started###
